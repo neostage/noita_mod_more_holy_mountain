@@ -1,0 +1,12 @@
+<Mod
+	name="더 신성한 산"
+	description="디시인사이드 Noita 마이너 갤러리"
+	request_no_api_restrictions="0" 
+> 
+</Mod>
+
+<!-- 
+	If a mod requires access to the full lua api e.g. os.* io.* it has to request acesss via 'request_no_api_restrictions="1"'.
+	It is recommended that other options are explored first, as we may completely disable those APIs in the future.
+	By default mods have access to the table, string, math and bit libraries and to the APIs exposed by the game.
+ -->
